@@ -1,5 +1,6 @@
 class App < Sinatra::Base
 
- bundle install
+  # Define your GET '/' route below and respond with "Hello, World!"
+
 
 end
